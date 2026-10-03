@@ -7,3 +7,14 @@ An editorial design booklet exploring the remarkable public sanitation initiativ
 * **Focus:** Editorial design, typographic hierarchy, grid systems, and print preparation.
 * **Specs:** 32-page, 7”x 9” booklet designed for saddle-stitch binding.
 * **Links:** [View the full PDF here](./The_Tokyo_Toilet_Astrid_Bakke.pdf)
+
+
+
+### **Trumpet Graphic Stylizations (2023)**
+A foundational vector illustration project exploring different graphic interpretations and stylistic variations of a single object (a trumpet). Created as an introduction to Adobe Illustrator.
+
+* **Focus:** 
+  * Visual recognition and appropriate graphic stylization (line, mass, and tone translation).
+  * Conceptual and visual sophistication across 6 distinct stylistic iterations.
+* **Specs:** 6-page PDF of 5”x 5” artboards.
+* **Links:** [View the full PDF here](./bakke-translation.pdf)
