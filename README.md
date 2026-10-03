@@ -1,5 +1,11 @@
 # Design-UX-Portfolio
 
+### **Global Senior Wellness Conference - Promotional Poster (2026)**
+A promotional poster designed during an 8-week marketing internship in Seoul, South Korea, for *Third Age*. The poster promotes Wonju as the host city for the Global Senior Wellness Conference in October.
+
+* **Links:** [View Conference PDF](./Wellness_Conference_2025.pdf)
+
+
 ### **The Tokyo Toilet (2025)**
 An editorial design booklet exploring the remarkable public sanitation initiative in Shibuya, Tokyo. The project challenges our usual perception of public toilets as unpleasant or neglected spaces, transforming them into places of dignity, curiosity, and even community. Inspired by Japanese minimalism and the film *Perfect Days*, the booklet explores 17 unique toilets designed by world-famous architects and how thoughtful design can transform one of the most overlooked spaces in our cities into something memorable and meaningful.
 
