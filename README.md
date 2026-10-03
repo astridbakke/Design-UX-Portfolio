@@ -17,12 +17,9 @@ A responsive multi-page website design for the experimental music festival *Big 
 
 
 ### **Patch Perfect - Brand & Campaign Design (2023)**
-A comprehensive brand identity and campaign package designed to address textile waste and climate change by encouraging clothing repair and mindful consumption. The brand revolves around a custom dashed-line logotype that mimics a sewing stitch, complemented by warm, earthy color palettes and a playful tone.
+A playful brand identity and campaign encouraging people to repair, reuse, and rethink their clothes. Inspired by the look of a sewing stitch, the custom dashed-line logo, warm colors, and playful visual identity turn textile waste into something approachable and fun.
 
-* **Project Brief & Scope:**
-  * **Brand Identity & Logo Design:** Created primary and secondary logo variations, minimum clear-space guidelines, and rules for proper usage.
-  * **Brand Guidelines:** A multi-page brand book outlining typography (SF Hollywood Hills & American Typewriter), color specifications (RGB, CMYK, PMS), and mission statements.
-  * **Collateral & Marketing:** Designed a two-sided business card, a social media campaign presence (Instagram carousel), and practical campaign merchandise (a branded mending kit).
+Created the full brand identity, including logo variations, typography, color system, brand guidelines, social media campaign and business cards.
 * **Specs:** Multi-page PDF brand guide and campaign deliverables.
 * **Links:** [View Brand Guide PDF](./bakke-patchperfect-guide.pdf)
 
