@@ -9,11 +9,22 @@ An editorial design booklet exploring the remarkable public sanitation initiativ
 * **Links:** [View the full PDF here](./The_Tokyo_Toilet_Astrid_Bakke.pdf)
 
 
-### **Big Ears Festival – Web Design Prototype (2024)**
+### **Big Ears Festival - Web Design Prototype (2024)**
 A responsive multi-page website design for the experimental music festival *Big Ears*, created in Figma. The project explores web typography, user experience (UX), grid structures, and reusable component systems for both desktop and mobile layouts.
 
 * **Specs:** Interactive UI prototype created in Figma featuring desktop and mobile breakpoints (MacBook Air and iPhone frames).
 * **Links:** [View Figma Prototype](https://www.figma.com/design/f7z8JV5NoYE6YXk90ONvdu/astrid-moodboard?node-id=245-195&t=ITnKlFND9CMHVTXh-1)
+
+
+### **Patch Perfect - Brand & Campaign Design (2023)**
+A comprehensive brand identity and campaign package designed to address textile waste and climate change by encouraging clothing repair and mindful consumption. The brand revolves around a custom dashed-line logotype that mimics a sewing stitch, complemented by warm, earthy color palettes and a playful tone.
+
+* **Project Brief & Scope:**
+  * **Brand Identity & Logo Design:** Created primary and secondary logo variations, minimum clear-space guidelines, and rules for proper usage.
+  * **Brand Guidelines:** A multi-page brand book outlining typography (SF Hollywood Hills & American Typewriter), color specifications (RGB, CMYK, PMS), and mission statements.
+  * **Collateral & Marketing:** Designed a two-sided business card, a social media campaign presence (Instagram carousel), and practical campaign merchandise (a branded mending kit).
+* **Specs:** Multi-page PDF brand guide and campaign deliverables.
+* **Links:** [View Brand Guide PDF](./bakke-patchperfect-guide.pdf)
 
 
 
