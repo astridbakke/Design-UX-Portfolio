@@ -9,6 +9,13 @@ An editorial design booklet exploring the remarkable public sanitation initiativ
 * **Links:** [View the full PDF here](./The_Tokyo_Toilet_Astrid_Bakke.pdf)
 
 
+### **Big Ears Festival – Web Design Prototype (2024)**
+A responsive multi-page website design for the experimental music festival *Big Ears*, created in Figma. The project explores web typography, user experience (UX), grid structures, and reusable component systems for both desktop and mobile layouts.
+
+* **Specs:** Interactive UI prototype created in Figma featuring desktop and mobile breakpoints (MacBook Air and iPhone frames).
+* **Links:** [View Figma Prototype](https://www.figma.com/design/f7z8JV5NoYE6YXk90ONvdu/astrid-moodboard?node-id=245-195&t=ITnKlFND9CMHVTXh-1)
+
+
 
 ### **Trumpet Graphic Stylizations (2023)**
 A foundational vector illustration project exploring different graphic interpretations and stylistic variations of a single object (a trumpet). Created as an introduction to Adobe Illustrator.
