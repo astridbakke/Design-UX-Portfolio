@@ -1,7 +1,7 @@
 # Design-UX-Portfolio
 
 ### **Global Senior Wellness Conference - Promotional Poster (2025)**
-A promotional poster designed during an 8-week marketing internship in Seoul, South Korea, for *Third Age*. The poster promotes Wonju as the host city for the Global Senior Wellness Conference in October.
+A promotional poster designed during an 8-week marketing internship in Seoul, South Korea, for *Third Age*. The poster promotes beautiful Wonju as the host city for the Global Senior Wellness Conference in October.
 
 * **Links:** [View Conference PDF](./Wellness_Conference_2025.pdf)
 
