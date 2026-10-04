@@ -12,7 +12,9 @@ An editorial design booklet exploring the remarkable public sanitation initiativ
 
 * **Focus:** Editorial design, typographic hierarchy, grid systems, and print preparation.
 * **Specs:** 32-page, 7”x 9” booklet designed for saddle-stitch binding.
-* **Links:** [View the full PDF here](./The_Tokyo_Toilet_Astrid_Bakke.pdf)
+* **Links:
+* * **[View the full PDF here](./The_Tokyo_Toilet_Astrid_Bakke.pdf)
+* * **[View Interactive Flipbook](https://heyzine.com/flip-book/880c89e62a.html)
 
 
 ### **Big Ears Festival - Web Design Prototype (2024)**
