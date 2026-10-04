@@ -22,7 +22,7 @@ A responsive multi-page website design for the experimental music festival *Big 
 
 
 ### **Patch Perfect - Brand & Campaign Design (2023)**
-A playful brand identity and campaign encouraging people to repair, reuse, and rethink their clothes. Inspired by the look of a sewing stitch, the custom dashed-line logo, warm colors, and playful visual identity turn textile waste into something approachable and fun.
+For a brand design class project addressing climate change, I choose to make a playful brand identity and campaign encouraging people to repair, reuse, and rethink their clothes. Inspired by the look of a sewing stitch, the custom dashed-line logo, warm colors, and playful visual identity turn textile waste into something approachable and fun.
 
 Created the full brand identity, including logo variations, typography, color system, brand guidelines, social media campaign and business cards.
 * **Specs:** Multi-page PDF brand guide and campaign deliverables.
@@ -31,10 +31,7 @@ Created the full brand identity, including logo variations, typography, color sy
 
 
 ### **Trumpet Graphic Stylizations (2023)**
-A foundational vector illustration project exploring different graphic interpretations and stylistic variations of a single object (a trumpet). Created as an introduction to Adobe Illustrator.
+This was my very first introduction to Adobe Illustrator back in 2023! I explored the fundamentals of vector drawing by translating a single object (a trumpet) through six distinct stylistic interpretations—moving from pure line work to mass and tone.
 
-* **Focus:** 
-  * Visual recognition and appropriate graphic stylization (line, mass, and tone translation).
-  * Conceptual and visual sophistication across 6 distinct stylistic iterations.
 * **Specs:** 6-page PDF of 5”x 5” artboards.
 * **Links:** [View the full PDF here](./bakke-translation.pdf)
