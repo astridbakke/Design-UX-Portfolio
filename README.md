@@ -6,8 +6,11 @@ A promotional poster designed during an 8-week marketing internship in Seoul, So
 * **Links:** [View Conference PDF](./Wellness_Conference_2025.pdf)
 
 
-### **The Tokyo Toilet (2025)**
-An editorial design booklet exploring the remarkable public sanitation initiative in Shibuya, Tokyo. The project challenges our usual perception of public toilets as unpleasant or neglected spaces, transforming them into places of dignity, curiosity, and even community. Inspired by Japanese minimalism and the film *Perfect Days*, the booklet explores 17 unique toilets designed by world-famous architects and how thoughtful design can transform one of the most overlooked spaces in our cities into something memorable and meaningful.
+### **The Tokyo Toilet - Publication Design (2025)**
+
+An editorial design booklet exploring the remarkable public sanitation initiative in Shibuya, Tokyo. I first discovered the project through the film *Perfect Days*, which inspired me to explore how thoughtful design can challenge our perception of public toilets as unpleasant or neglected spaces, transforming them into places of dignity, curiosity, and community.
+
+The booklet explores 17 unique toilets designed by world-famous architects, combining research, writing, typography, original graphics, and editorial design. Created as a self-authored publication project for a typography course.
 
 * **Focus:** Editorial design, typographic hierarchy, grid systems, and print preparation.
 * **Specs:** 32-page, 7”x 9” booklet designed for saddle-stitch binding.
