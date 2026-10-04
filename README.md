@@ -25,7 +25,7 @@ A responsive multi-page website design for the experimental music festival *Big 
 
 
 ### **Patch Perfect - Brand & Campaign Design (2023)**
-For a brand design class project addressing climate change, I choose to make a playful brand identity and campaign encouraging people to repair, reuse, and rethink their clothes. Inspired by the look of a sewing stitch, the custom dashed-line logo, warm colors, and playful visual identity turn textile waste into something approachable and fun.
+For a brand design class project addressing climate change, I chose to make a playful brand identity and campaign encouraging people to repair, reuse, and rethink their clothes. Inspired by the look of a sewing stitch, the custom dashed-line logo, warm colors, and playful visual identity turn textile waste into something approachable and fun.
 
 Created the full brand identity, including logo variations, typography, color system, brand guidelines, social media campaign and business cards.
 * **Specs:** Multi-page PDF brand guide and campaign deliverables.
